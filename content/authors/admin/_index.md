@@ -52,4 +52,4 @@ Before beginning my PhD, I spent a summer at the Johns Hopkins University Bloomb
 
 {{< icon name="download" pack="fas" >}} {{% staticref "uploads/jmmaronge_CV.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 
-Email: jmmaronge[at]gmail[dot]com
+Email: jmmaronge[at]gmail[dot]com or jmmaronge[at]mdanderson[dot]org
