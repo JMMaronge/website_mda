@@ -5,7 +5,7 @@ theme:
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jacob M. Maronge # Website name
-baseurl: 'https://jmmaronge.github.io/' # Website URL
+baseurl: 'https://www.jacobmaronge.org' # Website URL
 copyright: '© 2021 Jacob M. Maronge' # Footer text, e.g. '© {year} Me'
 
 ############################

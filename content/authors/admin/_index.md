@@ -1,5 +1,5 @@
 ---
-bio: My research interests include experimental design, clincial trials, outcome-dependent sampling, and Bayesian methods
+bio: My research interests include experimental design, clinical trials, outcome-dependent sampling, and Bayesian methods
 education:
   courses:
   - course: PhD in Statistics
@@ -29,9 +29,9 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/jmmaronge
-#- icon: graduation-cap
-#  icon_pack: fas
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=1PLPJC4AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/jmmaronge
