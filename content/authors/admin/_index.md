@@ -11,7 +11,7 @@ education:
 email: ""
 highlight_name: false
 interests:
-- Innovative clinical trial design
+- Clinical trial design
 - Epidemiological study design
 - Generalized linear models
 - Machine learning
@@ -45,7 +45,7 @@ title: Jacob M. Maronge
 
 ## Hi, I'm Jake!
 
-I am a Statistics Leader in the Statistics and Data Science Innovation Hub in Oncology and Vaccines at [GSK](https://www.gsk.com/en-gb/). I split my time researching and consulting on (bio)statistical methodology for innovative clinical trial design. My research interests include clinical trial design, observational study design, Bayesian methods, generalized linear models, machine learning, and oncology.
+I am a Statistics Leader in the Statistics and Data Science Innovation Hub, Oncology and Vaccines at [GSK](https://www.gsk.com/en-gb/). I split my time researching and consulting on (bio)statistical methodology for innovative clinical trial design.
 
 Previously, I was a Postdoctoral Fellow in the Department of Biostatistics at MD Anderson Cancer Center. I worked with [Ying Yuan](https://faculty.mdanderson.org/profiles/ying_yuan.html) and [Peter Thall](https://faculty.mdanderson.org/profiles/peter_thall.html) on novel Bayesian clinical trial design for personalized medicine in early-phase oncology trials.
 
